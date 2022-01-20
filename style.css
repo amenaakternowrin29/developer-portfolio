@@ -4,12 +4,17 @@ body{
 }
 h1{
     font-size: 50px;
+    padding-top: 5%;
+}
+h2{
+    font-size: 40px;
 }
 .orange-color{
     color: orange;
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 40%;
@@ -31,4 +36,26 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+
+
+.my-dream-text{
+    padding-top: 5%;
+}
+.half-width-2 img{
+    width: 80%;
+    padding-left: 11%;
+}
+.bottum-banner-text{
+   width: 50%;
+   margin-right: 5%;
+   padding-left: 3%;
+}
+.button-banner{
+background-image: url(images/dream-bg.png);
+background-repeat: no-repeat;
+background-position: right;
+background-size: 7.5%;
+background-position-y: bottom;
 }
