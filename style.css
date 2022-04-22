@@ -33,7 +33,7 @@ h2{
     border-radius: 40px;
 }
 .first-banner{
-    background-image: url(images/top-banner.png);
+    background-image: url(images/top-banner-1.png);
     background-repeat: no-repeat;
 }
 
@@ -163,13 +163,13 @@ background-size: 7.7%;
 }
 .bottom-banner{
     background-image: url(images/exp-bg.png);
-    
     background-repeat: no-repeat;
     background-position-x: left;
     
 }
 .last-banner-two{
     background-position: right;
+    
 }
 
 
