@@ -43,6 +43,8 @@ h2{
 
 
 
+
+
 .my-dream-text{
     padding-top: 5%;
 }
@@ -69,6 +71,8 @@ background-position-y: bottom;
 
 
 
+
+
 .orange-color-one{
     color: orange;
     font-size: 16.2px;
@@ -77,6 +81,9 @@ background-position-y: bottom;
     color: orange;
     font-size: 14px;
 }
+
+
+
 
 
 
@@ -130,13 +137,23 @@ background-size: 7.7%;
 
 
 
+
+
+
+
 .fourth-banner{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
     background-size: 7%;
     margin-top: 100px;
+    margin-bottom: 230px;
     }
+
+
+
+
+
 
 
 
@@ -164,7 +181,7 @@ background-size: 7.7%;
 .bottom-banner{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
-    background-position-x: left;
+    background-position-x: left;  
     
 }
 .last-banner-two{
